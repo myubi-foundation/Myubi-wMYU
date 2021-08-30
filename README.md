@@ -1,8 +1,8 @@
-# Fantom wFTM DeFi module
+# Fantom wMYU DeFi module
 
-The repository implements wrapped FTM tokens used to normalize
-DeFi tokens use with the native tokens. Native FTMs can be freely
-wrapped into the ERC20 wFTM and unwrapped back to FTM without a fee.
+The repository implements wrapped MYU tokens used to normalize
+DeFi tokens use with the native tokens. Native MYUs can be freely
+wrapped into the ERC20 wMYU and unwrapped back to MYU without a fee.
 The only cost involved is the transaction fee of the exchange contract
 call.
 
