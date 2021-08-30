@@ -1,4 +1,4 @@
-# Fantom wMYU DeFi module
+# Myubi wMYU DeFi module
 
 The repository implements wrapped MYU tokens used to normalize
 DeFi tokens use with the native tokens. Native MYUs can be freely
